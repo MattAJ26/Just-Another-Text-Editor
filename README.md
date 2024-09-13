@@ -20,7 +20,7 @@ A text editor that is setup as a PWA, deployed to Render, and installable on you
 
 ## Usage
 - [Deployed Site](https://just-another-text-editor-aivj.onrender.com/)
-- ![Screenshot](Assets/Screenshot 2024-09-12.png)
+[Screenshot](Assets/Screenshot 2024-09-12.png)
 
 ## License
 
