@@ -19,7 +19,8 @@ A text editor that is setup as a PWA, deployed to Render, and installable on you
 - Click install on the webpage to install the app for offline use
 
 ## Usage
-[Screenshot](Assets/Screenshot 2024-09-12.png)
+- [Deployed Site](https://just-another-text-editor-aivj.onrender.com/)
+- [Screenshot](Assets/Screenshot 2024-09-12.png)
 
 ## License
 
